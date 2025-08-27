@@ -22,6 +22,7 @@ A curated list of awesome NetSuite AI resources, tools, articles, and community 
 ## 📚 Articles & Guides
 
 - [Getting Started with NetSuite AI Connector: Step-by-Step Guide](https://www.linkedin.com/pulse/getting-started-netsuite-ai-connector-step-by-step-guide-abdul-qadeer-m2k9f/) - Foundational guide by Abdul Qadeer for connecting to the NetSuite AI Connector.
+- [NetSuite AI Connector Service Ultimate Setup Guide](https://collectivemindtechnologies.com/blog/netsuite-ai-connector-setup-guide/) - Step-by-step SuiteApp setup guide from Collective Mind Technologies, covering installation, role configuration, Claude Pro connection, and prompt ideas for maximizing NetSuite AI Connector benefits.
 - [Building a Custom Tool (Agent Tool) for the NetSuite AI Connector: Step By Step Guide](https://www.linkedin.com/pulse/building-custom-tool-agent-netsuite-ai-connector-step-abdul-qadeer-fcg8f/) - Comprehensive step-by-step guide by Abdul Qadeer on creating custom agent tools for NetSuite AI Connector.
 - [Breaking Open NetSuite AI Connector Service: From Claude Pro to Any Chatbot](https://www.linkedin.com/pulse/breaking-open-netsuite-ai-connector-service-from-claude-chaikin-xqagc/) - Deep dive by Michoel Chaikin into extending NetSuite AI Connector beyond Claude Pro to work with any MCP-compatible host.
 - [Using NetSuite AI Connector (MCP) with Postman: Step by Step Guide](https://www.linkedin.com/pulse/using-netsuite-ai-connector-mcp-postman-step-guide-abdul-qadeer-puc0f/) - Practical guide by Abdul Qadeer on setting up Postman to work with NetSuite AI Connector MCP.
@@ -37,6 +38,7 @@ A curated list of awesome NetSuite AI resources, tools, articles, and community 
 
 - [NetSuite's New AI Connector Service – Full Setup & Real Examples](https://www.youtube.com/watch?v=BcvfjJjrgDA) - Comprehensive video tutorial by JR Tallman covering setup, Claude connection via MCP, and practical examples for reporting and automation.
 - [Generating Analyses with Claude, the NetSuite AI Connector, and SuiteReports](https://www.youtube.com/watch?v=Uny0BSerc6s) - Tim Dietrich from SuiteStep demonstrates using Claude with NetSuite AI Connector and SuiteReports to perform financial analysis.
+- [NetSuite + Claude MCP Demo: Autonomous Accounts Receivable](https://www.linkedin.com/posts/ratul-kumar-tamuli-a5198256_netsuite-claude-mcp-activity-7366141823888576512-OXk8/) - Ratul Kumar Tamuli (Crowe) demonstrates how the NetSuite AI Connector and Claude-powered AI automate customer matching, payment creation, and invoice application for AR
 
 ## 💡 Use Cases & Examples
 
@@ -47,6 +49,7 @@ A curated list of awesome NetSuite AI resources, tools, articles, and community 
 - [SuiteScript 2.1 Custom Tool Script Type in Action](https://www.linkedin.com/posts/ugcPost-7363976800873390083-oLYG/) - Hasan Yorukoglu demonstrates using SuiteScript 2.1 Custom Tool script type to create CRM tasks from business cards, showcasing AI-driven lead creation and task assignment.
 - [Supercharging Claude with SuiteQL for Employee Analytics](https://www.linkedin.com/posts/tim-dietrich_with-the-newnetsuite-ai-connector-service-activity-7361889262201397248-3Eoj) - Tim Dietrich demonstrates using Claude with SuiteQL to analyze employee data and generate detailed reports with headcounts by subsidiary, location, and department.
 - [NetSuite MCP AI Connector Use Case Series - Vendor / Supplier Performance Analysis](https://www.linkedin.com/pulse/netsuite-mcp-ai-connector-use-case-series-vendor-supplier-zhou-f9jsc) - Kevin Zhou explores using AI-driven analysis for vendor performance monitoring, including on-time delivery tracking, quality issue patterns, and composite supplier scoring.
+- [The Future of NetSuite Is Here: Three MCP Use Cases That Prove It](https://www.linkedin.com/pulse/future-netsuite-here-three-mcp-use-cases-prove-olivier-gagnon-plh1e/) - Olivier Gagnon from Techfino showcases three levels of MCP implementation: basic customer list retrieval, operational project time velocity analysis with automated charting, and transformative sentiment analysis on project comments to identify potential issues early.
 
 ## 👥 Community
 
