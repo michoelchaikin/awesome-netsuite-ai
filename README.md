@@ -27,6 +27,7 @@ A curated list of awesome NetSuite AI resources, tools, articles, and community 
 - [Breaking Open NetSuite AI Connector Service: From Claude Pro to Any Chatbot](https://www.linkedin.com/pulse/breaking-open-netsuite-ai-connector-service-from-claude-chaikin-xqagc/) - Deep dive by Michoel Chaikin into extending NetSuite AI Connector beyond Claude Pro to work with any MCP-compatible host.
 - [Using NetSuite AI Connector (MCP) with Postman: Step by Step Guide](https://www.linkedin.com/pulse/using-netsuite-ai-connector-mcp-postman-step-guide-abdul-qadeer-puc0f/) - Practical guide by Abdul Qadeer on setting up Postman to work with NetSuite AI Connector MCP.
 - [NetSuite MCP AI Integration Guide](https://devszilla.github.io/netsuite-mcp-ai-guide/) - Complete architecture and implementation guide by Caleb Moore for building custom React-based chatbots with NetSuite MCP using BYOAI approach.
+- [NetSuite MCP Tools: Complete Setup Guide for Claude AI Integration](http://bit.ly/ns-mcp-tools-guide) - Complete guide by Mohammad Sharaf Ali covering permissions, API integration, OAuth 2.0, and automated token generation for integrating NetSuite with Claude AI using MCP Tools.
 
 ## 🛠️ Sample Code & Tools
 
