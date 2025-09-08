@@ -7,13 +7,12 @@ A curated list of awesome NetSuite AI resources, tools, articles, and community 
 ## 📋 Contents
 
 - [🏢 Official Resources](#-official-resources)
-- [📚 Articles \& Guides](#-articles--guides)
-- [🛠️ Sample Code \& Tools](#️-sample-code--tools)
-- [🎥 Videos \& Tutorials](#-videos--tutorials)
-- [💡 Use Cases \& Examples](#-use-cases--examples)
+- [📚 Articles & Guides](#-articles--guides)
+- [🛠️ Sample Code & Tools](#️-sample-code--tools)
+- [🎥 Videos & Tutorials](#-videos--tutorials)
+- [💡 Use Cases & Examples](#-use-cases--examples)
 - [👥 Community](#-community)
-- [🤝 Contributing](#-contributing)
-- [License](#license)
+
 
 ## 🏢 Official Resources
 
@@ -38,7 +37,7 @@ A curated list of awesome NetSuite AI resources, tools, articles, and community 
 
 - [NetSuite's New AI Connector Service – Full Setup & Real Examples](https://www.youtube.com/watch?v=BcvfjJjrgDA) - Comprehensive video tutorial by JR Tallman covering setup, Claude connection via MCP, and practical examples for reporting and automation.
 - [Generating Analyses with Claude, the NetSuite AI Connector, and SuiteReports](https://www.youtube.com/watch?v=Uny0BSerc6s) - Tim Dietrich from SuiteStep demonstrates using Claude with NetSuite AI Connector and SuiteReports to perform financial analysis.
-- [NetSuite + Claude MCP Demo: Autonomous Accounts Receivable](https://www.linkedin.com/posts/ratul-kumar-tamuli-a5198256_netsuite-claude-mcp-activity-7366141823888576512-OXk8/) - Ratul Kumar Tamuli (Crowe) demonstrates how the NetSuite AI Connector and Claude-powered AI automate customer matching, payment creation, and invoice application for AR
+- [NetSuite + Claude MCP Demo: Autonomous Accounts Receivable](https://www.linkedin.com/posts/ratul-kumar-tamuli-a5198256_netsuite-claude-mcp-activity-7366141823888576512-OXk8/) - Ratul Kumar Tamuli (Crowe) demonstrates how the NetSuite AI Connector and Claude-powered AI automate customer matching, payment creation, and invoice application for AR.
 
 ## 💡 Use Cases & Examples
 
@@ -54,11 +53,3 @@ A curated list of awesome NetSuite AI resources, tools, articles, and community 
 ## 👥 Community
 
 - [NetSuite Professionals Slack - #ai-netsuite](https://netsuiteprofessionals.com/slack/) - Active Slack community with dedicated channel for NetSuite AI discussions and collaboration.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please submit a pull request with additional resources, tools, or use cases.  
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
