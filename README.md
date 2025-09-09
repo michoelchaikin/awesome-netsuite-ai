@@ -27,6 +27,7 @@ A curated list of awesome NetSuite AI resources, tools, articles, and community 
 - [NetSuite MCP AI Integration Guide](https://devszilla.github.io/netsuite-mcp-ai-guide/) - Complete architecture and implementation guide by Caleb Moore for building custom React-based chatbots with NetSuite MCP using BYOAI approach.
 - [NetSuite MCP Tools: Complete Setup Guide for Claude AI Integration](http://bit.ly/ns-mcp-tools-guide) - Complete guide by Mohammad Sharaf Ali covering permissions, API integration, OAuth 2.0, automated token generation, and Cursor IDE integration for integrating NetSuite with Claude AI using MCP Tools.
 - [NetSuite AI Connector and MCP Custom Tool](https://github.com/JustTanwa/netsuite-mcp-custom-tool) - Repository and guide by Tanwa Sripan for connecting to NetSuite AI Connector without Claude and building custom tools using VS Code, Postman, and Node.js.
+- [Async Saved Searches via NetSuite MCP Custom Tool](https://www.linkedin.com/posts/tanwasripan_netsuite-ai-mcp-activity-7370512683097296896-V8BL) - Tanwa Sripan demonstrates using the `N/task` module to run saved searches asynchronously when the `N/search` module is not supported.
 
 ## 🛠️ Sample Code & Tools
 
