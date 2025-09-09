@@ -27,6 +27,7 @@ A curated list of awesome NetSuite AI resources, tools, articles, and community 
 - [NetSuite MCP AI Integration Guide](https://devszilla.github.io/netsuite-mcp-ai-guide/) - Complete architecture and implementation guide by Caleb Moore for building custom React-based chatbots with NetSuite MCP using BYOAI approach.
 - [NetSuite MCP Tools: Complete Setup Guide for Claude AI Integration](http://bit.ly/ns-mcp-tools-guide) - Complete guide by Mohammad Sharaf Ali covering permissions, API integration, OAuth 2.0, automated token generation, and Cursor IDE integration for integrating NetSuite with Claude AI using MCP Tools.
 - [NetSuite AI Connector and MCP Custom Tool](https://github.com/JustTanwa/netsuite-mcp-custom-tool) - Repository and guide by Tanwa Sripan for connecting to NetSuite AI Connector without Claude and building custom tools using VS Code, Postman, and Node.js.
+- [Async Saved Searches via NetSuite MCP Custom Tool](https://www.linkedin.com/posts/tanwasripan_netsuite-ai-mcp-activity-7370512683097296896-V8BL) - Tanwa Sripan demonstrates using the `N/task` module to run saved searches asynchronously when the `N/search` module is not supported.
 
 ## 🛠️ Sample Code & Tools
 
@@ -39,6 +40,7 @@ A curated list of awesome NetSuite AI resources, tools, articles, and community 
 - [NetSuite's New AI Connector Service – Full Setup & Real Examples](https://www.youtube.com/watch?v=BcvfjJjrgDA) - Comprehensive video tutorial by JR Tallman covering setup, Claude connection via MCP, and practical examples for reporting and automation.
 - [Generating Analyses with Claude, the NetSuite AI Connector, and SuiteReports](https://www.youtube.com/watch?v=Uny0BSerc6s) - Tim Dietrich from SuiteStep demonstrates using Claude with NetSuite AI Connector and SuiteReports to perform financial analysis.
 - [NetSuite + Claude MCP Demo: Autonomous Accounts Receivable](https://www.linkedin.com/posts/ratul-kumar-tamuli-a5198256_netsuite-claude-mcp-activity-7366141823888576512-OXk8/) - Ratul Kumar Tamuli (Crowe) demonstrates how the NetSuite AI Connector and Claude-powered AI automate customer matching, payment creation, and invoice application for AR.
+- [NetSuite AI Connector Walkthrough](https://www.linkedin.com/posts/james-sarhan-02332616b_netsuite-oracle-ai-activity-7364346164860657664-fH1Z/) - James Sarhan showcases Oracle's NetSuite AI Connector, demonstrating how Claude integrates with NetSuite to retrieve data with natural language and automate tasks.
 - [NetSuite AI Connector - Part 2: Data Accuracy Deep Dive](https://www.linkedin.com/posts/james-sarhan-02332616b_netsuite-ai-claudeai-activity-7367234913005174784-IQAY/) - James Sarhan examines data accuracy by comparing Claude AI outputs with NetSuite records, highlighting strengths and areas requiring oversight.
 
 ## 💡 Use Cases & Examples
