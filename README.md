@@ -3,8 +3,7 @@
 
 A curated list of awesome NetSuite AI resources, tools, articles, and community contributions focused on the NetSuite AI Connector Service and MCP (Model Context Protocol) integration.
 
-<!-- omit from toc -->
-## 📋 Contents
+## Contents
 
 - [🏢 Official Resources](#-official-resources)
 - [📚 Articles & Guides](#-articles--guides)
