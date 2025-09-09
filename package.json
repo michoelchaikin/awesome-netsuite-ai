@@ -1,0 +1,33 @@
+{
+  "name": "awesome-netsuite-ai",
+  "version": "1.0.0",
+  "description": "A curated list of awesome NetSuite AI resources, tools, articles, and community contributions",
+  "main": "README.md",
+  "scripts": {
+    "lint": "awesome-lint README.md",
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michoelchaikin/awesome-netsuite-ai.git"
+  },
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "netsuite",
+    "ai",
+    "mcp",
+    "model-context-protocol",
+    "claude",
+    "oracle"
+  ],
+  "author": "Michoel Chaikin",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/michoelchaikin/awesome-netsuite-ai/issues"
+  },
+  "homepage": "https://github.com/michoelchaikin/awesome-netsuite-ai#readme",
+  "devDependencies": {
+    "awesome-lint": "^1.2.0"
+  }
+}
