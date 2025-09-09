@@ -47,6 +47,7 @@ A curated list of awesome NetSuite AI resources, tools, articles, and community 
 
 ## 💡 Use Cases & Examples
 
+- [AI-Driven Approvals in NetSuite](https://www.linkedin.com/posts/gurussolutions_using-netsuites-newly-released-mcp-model-activity-7366894008461074434-HHj6) - GURUS Solutions demonstrates a custom Claude-powered MCP tool that retrieves pending transactions, explains approval readiness, and executes approvals directly in NetSuite.
 - [AI-Powered NetSuite Log Analysis](https://www.linkedin.com/posts/seth-duda-0202996_netsuite-ai-mcp-activity-7363591910755606530-xiwJ/) - Seth Duda from SquareWorks Consulting demonstrates a time-saving AI agent that uses NetSuite's MCP connector to analyze execution logs and diagnose root causes of issues.
 - [B2B Lead Qualification with NetSuite AI Connector and Claude](https://www.linkedin.com/posts/matt-hubbard-514402221_netsuite-ai-leadqualification-activity-7367201751856238595-KkQf) - Matt Hubbard from Blu Banyan demonstrates using Claude with NetSuite AI Connector to verify companies, surface decision makers, and prioritize outreach.
 - [Exploring NetSuite AI Connector: Bulk Imports Made Easy!](https://www.linkedin.com/posts/florencia-meil%C3%A1n-65b74512_netsuite-aiconnector-automation-ugcPost-7364352576223358977-ACLx) - Florencia Meilán demonstrates using Claude with NetSuite AI Connector to automatically analyze CSV files and create bulk item imports.
