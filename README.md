@@ -35,6 +35,7 @@ A curated list of awesome NetSuite AI resources, tools, articles, and community 
 - [NetSuite MCP Sample Tools](https://github.com/oracle-samples/netsuite-suitecloud-samples/tree/main/MCP-Sample-Tools) - Official Oracle sample repository containing custom tool examples for the NetSuite AI Connector Service.
 - [Current User Tool](https://timdietrich.me/blog/netsuite-ai-current-user-information/) - Custom tool by Tim Dietrich that provides AI clients with current NetSuite user details (ID, name, email, location, department, subsidiary) for user-specific context.
 - [File Cabinet Custom Tools](https://timdietrich.me/blog/extend-netsuite-with-ai-connector-with-custom-tools/) - Downloadable custom tool by Tim Dietrich for File Cabinet integration, allowing AI clients to search, retrieve, analyze, and create files within NetSuite.
+- [Mode VC Radar MCP](https://modevc.com/api/mcp) - Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
 
 ## 🎥 Videos & Tutorials
 
